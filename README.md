@@ -27,18 +27,20 @@ O design segue um padrão moderno:
 
 ## 📁 Estrutura do Projeto  
 
-/taskflow
-├── backend/ # Servidor Node.js + Express
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── app.js
-└── frontend/ # Aplicação React
-├── src/
-│ ├── pages/
-│ ├── components/
-│ └── App.jsx
-└── tailwind.config.js
+```text
+    /taskflow
+    ├── backend/ # Servidor Node.js + Express
+    │ ├── controllers/
+    │ ├── models/
+    │ ├── routes/
+    │ └── app.js
+    └── frontend/ # Aplicação React
+    ├── src/
+    │ ├── pages/
+    │ ├── components/
+    │ └── App.jsx
+    └── tailwind.config.js
+```
 
 
 ## 🛠️ Começando  
